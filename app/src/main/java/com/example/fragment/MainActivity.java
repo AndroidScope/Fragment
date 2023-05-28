@@ -35,7 +35,7 @@ String d="";
                     if (a[i] > a[j]) {
                         int c = a[i];
                         a[i] = a[j];
-                        a[j] = c;
+                        a[j] = a[i];
                     }
                 }
             }
