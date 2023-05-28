@@ -41,7 +41,7 @@ String d="";
             }
         }
         String u="";
-        Boolean value=true;
+        Boolean value=false;
         int a[] = { 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 6 };
         char z[]={'c','v','f'};
         ArrayList<Character> al=new ArrayList<>();
