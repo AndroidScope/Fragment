@@ -16,6 +16,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity implements OnDataSentListener {
 ActivityMainBinding binding;
 OnDataSentListener listener;
+String c="sjsdjsdjsd";
 char c[]={'c','m'};
 int a[]={5,2,7,9};
 String s="mnc";
