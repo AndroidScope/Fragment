@@ -18,7 +18,7 @@ ActivityMainBinding binding;
 OnDataSentListener listener;
 String c="sjsdjsdjsd";
 char c[]={'c','m'};
-int a[]={5,2,7,9};
+int a[]={5,2,7};
 String b="mnc";
 String d="";
 
