@@ -19,7 +19,7 @@ OnDataSentListener listener;
 String c="sjsdjsdjsd";
 char c[]={'c','m'};
 int a[]={5,2,7,9};
-String s="mnc";
+String b="mnc";
 String d="";
 
     @Override
