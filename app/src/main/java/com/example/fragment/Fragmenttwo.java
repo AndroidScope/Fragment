@@ -16,7 +16,7 @@ public class Fragmenttwo extends Fragment {
     @Override
     public void onAttach(@NonNull Context context) {
         super.onAttach(context);
-        Log.d("ccc","onattach");
+        Log.d("ccc","onattached");
     }
 
     @Override
